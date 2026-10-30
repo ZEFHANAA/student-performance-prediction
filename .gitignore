@@ -1,0 +1,23 @@
+# Documents & Reports (agar tidak ter-push ke repo publik)
+PROPOSAL_PROJECT_AI.md
+*.docx
+*.doc
+*.pdf
+
+# Python & Jupyter Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environments & IDE
+.vscode/
+.idea/
+venv/
+env/
+.env
+
+# OS temporary files
+Thumbs.db
+.DS_Store
+
